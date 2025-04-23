@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { Space_Grotesk } from "next/font/google";
-import Link from "next/link";
 import AppIcon from "./components/AppIcon";
 
 const geistMono = Space_Grotesk({
