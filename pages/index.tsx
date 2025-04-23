@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Space_Grotesk } from "next/font/google";
-import AppIcon from "./components/AppIcon";
+import AppIcon from "@/components/AppIcon";
 
 const geistMono = Space_Grotesk({
   variable: "--font-space-grotesk",
