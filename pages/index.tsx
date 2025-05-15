@@ -29,7 +29,7 @@ export default function Home() {
         {/* Description */}
         <span className="text-md sm:text-lg font-light">
           <p className="mb-8">
-            I&apos;m a 23 years old Full Stack Developer
+            I&apos;m a 24 years old Full Stack Developer
             <br />
             with additional expertise in Graphic Design, SEO and Marketing.
           </p>
@@ -56,7 +56,7 @@ export default function Home() {
               className="sm:-translate-x-3 sm:-rotate-12 group-hover/animation:translate-x-0 group-hover/animation:rotate-0 transition-all duration-300 hover:scale-110"
             />
             <AppIcon
-              href="https://app.mon-ey.com"
+              href="https://leihweise.juliansngr.dev/"
               src="/images/leihweise-icon.webp"
               alt="leihweise-icon"
               tooltip="leihweise | rentable equipment marketplace"
